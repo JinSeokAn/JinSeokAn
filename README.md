@@ -1,4 +1,4 @@
-<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[JinSeokAn]-[3. #000000]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
+<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/JinSeokAn-#000000?style=flat-square&logo=Adafruit&logoColor=white"/></a>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JinSeokAn&row=1)](https://github.com/ryo-ma/github-profile-trophy)
