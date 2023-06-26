@@ -42,7 +42,7 @@
   <br>
 -->
     <a href="https://velog.io/@dkswlstjr">
-      <img src="https://i.namu.wiki/i/fFnYy5Yz1wIHvN_NHdG7JtGIjj2J8POdu2xdxnNnQ0hT91CoWsh3l0AYF2OfAoN5Ij7TqkD1NN-XIp6gZkL4Lg.webp"/>
+      <img src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png"/>
     </a>&nbsp; &nbsp; &nbsp;
 <!--
 <a href="https://www.instagram.com/s.yun.tudio/">
