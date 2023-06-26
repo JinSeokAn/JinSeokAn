@@ -35,26 +35,27 @@
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
-	<!--
+<!--
     <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/">
       <img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/>
     </a>
   <br>
-	-->
+-->
     <a href="https://velog.io/@dkswlstjr">
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB70lEQVR4Ae2XA69cURSF55/Uto2wjOrGSa2oUaPaDGrbttvnsZ5ta+xZb++b3OTc3HD49CXrcid7HZ+jYYZqr4wnvR+ad8UzVHsVyZWU4yPlGq9h+IE+OEhIsRycmw185A/pEOV+zwY8aTTg0fBDOtV3DAwamGy4jV2l33G3yYYXrUVYYnmsiplqvIOztVp8aC/DpXo9JuhvxW/gQOU/5DkaEIpGIEJJFHHzzA/QGHBB5G1bafwGdM5GtAe9LIWJcm+nIm649hrO12kRjUYhU+t3JLYPZHTXQiZMZsbobqhi7lATyVjdLYk1cKPRApHV9peqmD1lPyBzvdGcWAP7K/5AgN5/q2KOVmeD4aZYbnueWAOrqMQiVCOqmH9dNWD+ddcmfh6gNld0xAxlEiy1PJb6BmuF7UVyJqIy6v0yLQGP4t9zmh8Y6ojJmwk/0vgXmWa8K31faX8hlbzG58B4/c3kGThHY11kc+F7jNJdh83dKjXP2oI3yV0LtpZ8hcih6izIw/NivT75i9EiyyOIlHo7pCGX46jHCO211KyGrnAAhKIzzjbdT91ybHQ2QYbbfUPhu9TuB07U5OBLRwWetRZiX9nPwR3RoIG4lOaDyVUPG3ifRgMfpcMpPTjScCxzKE7IpI9cJak4D5Ley8l7AN3heQkCnS1KAAAAAElFTkSuQmCC"/>
+      <img src="https://i.namu.wiki/i/fFnYy5Yz1wIHvN_NHdG7JtGIjj2J8POdu2xdxnNnQ0hT91CoWsh3l0AYF2OfAoN5Ij7TqkD1NN-XIp6gZkL4Lg.webp"/>
     </a>&nbsp; &nbsp; &nbsp;
-	<!--
+<!--
 <a href="https://www.instagram.com/s.yun.tudio/">
     <img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp
-	-->
+-->
 </p>
 
-<!--
-<p align="center">Click to go </p>
 
+<p align="center">Click to go </p>
+<!--
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 -->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+
