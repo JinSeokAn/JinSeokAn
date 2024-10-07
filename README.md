@@ -40,11 +40,9 @@
       <img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/>
     </a>
   <br>
--->
     <a href="https://velog.io/@dkswlstjr">
       <img src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png"/>
     </a>&nbsp; &nbsp; &nbsp;
-<!--
 <a href="https://www.instagram.com/s.yun.tudio/">
     <img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp
