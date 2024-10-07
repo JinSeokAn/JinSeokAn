@@ -46,11 +46,11 @@
 <a href="https://www.instagram.com/s.yun.tudio/">
     <img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp
--->
 </p>
 
 
 <p align="center">Click to go </p>
+-->
 <!--
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
