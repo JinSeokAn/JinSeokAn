@@ -13,6 +13,7 @@
 
 
 <!-- JinSeokAn -->
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&customColorList=27&height=200&section=header&text=JinSeok%20An&fontColor=ffffff&fontSize=40&fontAlign=60&fontAlignY=35&desc=Hello,World🐱%20I'm&ddescSize=20&descAlign=37&descAlignY=35)
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
@@ -35,7 +36,6 @@
 <h3 align="center">🍀 About Me 🍀</h3><br>
 
 <p align="center">
-<!--
     <a href="https://ionized-help-5cd.notion.site/_Portfolio-ef4a88f69e8647a3b0d2453921102895/">
       <img src="https://img.shields.io/badge/Notion-Portfolio-8BC0D0?style=for-the-badge&logo=notion&logoColor=8BC0D0"/>
     </a>
